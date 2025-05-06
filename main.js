@@ -25,4 +25,4 @@ const proizvedenie = 1
 
 for(i = 1; i < factorialChislo; i++) {
     proizvedenie = proizvedenie * i
-}
+}w
