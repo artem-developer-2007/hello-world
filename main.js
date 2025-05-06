@@ -9,7 +9,7 @@ app.get('/', (request, response) => {
 app.listen(3000)
 
 
-let nameOne = 'Артем'
+let nameOne = 'Артем'retert
 let nameTwo = 'Артем'
 
 if (nameOne[0] == nameTwo[0]) {
