@@ -9,7 +9,7 @@ app.get('/', (request, response) => {
 app.listen(3000)
 
 
-let nameOne = 'Артем'retert
+let nameOne = 'Артем'
 let nameTwo = 'Артем'
 
 if (nameOne[0] == nameTwo[0]) {
@@ -25,4 +25,4 @@ const proizvedenie = 1
 
 for(i = 1; i < factorialChislo; i++) {
     proizvedenie = proizvedenie * i
-}wwweasd
+}
