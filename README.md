@@ -5,14 +5,17 @@
 ##### Привет
 ###### Привет
 *Привет*
+
 **Привет**
 
-``` js
+``` py
 const express = require('express')
 
 const app = express()
 
 app.get('/', (req, res) => {
-  res.send('Hello')
+  res.send('Hello')  
 })
+
+app.listen(3000)
 ```
